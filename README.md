@@ -10,7 +10,12 @@ We apologize that the code and data for this project are not yet available. We a
 ## Requirement
 Coming soon.
 ## Dataset
-Coming soon.
+We have three datasets in total: a training dataset and two test datasets (test1 and test2). Each sample in the datasets includes user comments for a certain song and annotated labels. The train and test1 datasets only have gold labels, while test2 is fully annotated.
+Here is the link to download the dataset: 
+[train](https://1drv.ms/u/s!Ankz9G-2XE4SgSU8biKA4a3Wf84B?e=6ZF6dv)
+[test1](https://1drv.ms/u/s!Ankz9G-2XE4SgSPDkNjCgmfYuQ2P?e=FDi5WC)
+[test2](https://1drv.ms/u/s!Ankz9G-2XE4SgSRsPmJEqkmL17Q2?e=E13ETF)
+To download the dataset, simply click on the link and it will take you to the download page. Once downloaded, you can use the dataset for your research or analysis. Please make sure to cite the source of the dataset if you use it in your work.
 ## Experiment
 Coming soon.
 

@@ -1,5 +1,4 @@
 # data
-*.json
 *.txt
 *.npy
 *.pt
